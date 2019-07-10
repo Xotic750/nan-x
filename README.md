@@ -21,22 +21,21 @@
 <a name="module_nan-x"></a>
 
 ## nan-x
+
 The constant NaN derived mathematically by 0 / 0.
 
-**Version**: 1.0.2  
-**Author**: Xotic750 <Xotic750@gmail.com>  
-**License**: [MIT](&lt;https://opensource.org/licenses/MIT&gt;)  
-**Copyright**: Xotic750  
 <a name="exp_module_nan-x--module.exports"></a>
 
 ### `module.exports` : <code>number</code> ⏏
+
 The constant NaN derived mathematically by 0 / 0.
 
 **Kind**: Exported member  
-**Example**  
-```js
-var NAN = require('nan-x');
+**Example**
 
-NAN !== NAN; // true
-NAN === NAN; // false
+```js
+import NAN from 'nan-x';
+
+console.log(NAN !== NAN); // true
+console.log(NAN === NAN); // false
 ```
