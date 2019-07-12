@@ -1,13 +1,14 @@
 /*!
 {
+  "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2017-present",
-  "date": "2019-07-10T15:31:52.436Z",
+  "date": "2019-07-12T12:48:31.523Z",
   "describe": "",
   "description": "The constant NaN derived mathematically by 0 / 0.",
   "file": "nan-x.js",
-  "hash": "edf564c809731d079b70",
+  "hash": "c49fc031fb73ab0b40c6",
   "license": "MIT",
-  "version": "2.0.1"
+  "version": "2.0.2"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
@@ -124,24 +125,18 @@ return /******/ (function(modules) { // webpackBootstrap
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
-});
-exports.default = void 0;
-
+__webpack_require__.r(__webpack_exports__);
 /**
  * The constant NaN derived mathematically by 0 / 0.
  *
  * @type number
  */
-var _default = 0 / 0;
+/* harmony default export */ __webpack_exports__["default"] = (0 / 0);
 
-exports.default = _default;
+
 
 /***/ })
 /******/ ]);

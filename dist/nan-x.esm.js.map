@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/nan-x.js"],"names":[],"mappings":"AAAA;;;;;AAKA,eAAe,IAAI,CAAnB","file":"nan-x.esm.js","sourcesContent":["/**\n * The constant NaN derived mathematically by 0 / 0.\n *\n * @type number\n */\nexport default 0 / 0;\n"]}
