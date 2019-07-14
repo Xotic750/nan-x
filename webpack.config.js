@@ -1,7 +1,7 @@
 /**
  * @file Manages the root configuration settings for webpack.
- * @module webpack/root/configuration
- * @see {@link https://webpack.js.org/} for further information.
+ * @module Webpack/root/configuration.
+ * @see {@link https://webpack.js.org/} For further information.
  */
 
 const path = require('path');
