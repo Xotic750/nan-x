@@ -1,6 +1,6 @@
 {
   "name": "nan-x",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "description": "The constant NaN derived mathematically by 0 / 0.",
   "homepage": "https://github.com/Xotic750/nan-x",
   "author": {
