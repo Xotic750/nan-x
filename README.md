@@ -20,7 +20,7 @@
 <img src="https://badge.fury.io/js/nan-x.svg"
   alt="npm version" height="18">
 </a>
-<a href="https://www.jsdelivr.com/package/npm/'}nan-x"
+<a href="https://www.jsdelivr.com/package/npm/nan-x"
   title="jsDelivr hits">
 <img src="https://data.jsdelivr.com/v1/package/npm/nan-x/badge?style=rounded"
   alt="jsDelivr hits" height="18">
