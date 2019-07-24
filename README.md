@@ -1,18 +1,18 @@
-<a href="https://travis-ci.org/nan-x"
+<a href="https://travis-ci.org/Xotic750/nan-x"
   title="Travis status">
 <img
-  src="https://travis-ci.org/nan-x.svg?branch=master"
+  src="https://travis-ci.org/Xotic750/nan-x.svg?branch=master"
   alt="Travis status" height="18">
 </a>
-<a href="https://david-dm.org/nan-x"
+<a href="https://david-dm.org/Xotic750/nan-x"
   title="Dependency status">
-<img src="https://david-dm.org/nan-x/status.svg"
+<img src="https://david-dm.org/Xotic750/nan-x/status.svg"
   alt="Dependency status" height="18"/>
 </a>
 <a
-  href="https://david-dm.org/nan-x?type=dev"
+  href="https://david-dm.org/Xotic750/nan-x?type=dev"
   title="devDependency status">
-<img src="https://david-dm.orgnan-x/dev-status.svg"
+<img src="https://david-dm.org/Xotic750/nan-x/dev-status.svg"
   alt="devDependency status" height="18"/>
 </a>
 <a href="https://badge.fury.io/js/nan-x"
