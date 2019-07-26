@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2017-present",
-  "date": "2019-07-26T12:20:43.788Z",
+  "date": "2019-07-26T23:51:15.495Z",
   "describe": "",
   "description": "The constant NaN derived mathematically by 0 / 0.",
   "file": "nan-x.js",
   "hash": "c49fc031fb73ab0b40c6",
   "license": "MIT",
-  "version": "2.0.28"
+  "version": "2.0.29"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
