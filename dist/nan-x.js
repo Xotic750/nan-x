@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2017-present",
-  "date": "2019-07-31T16:53:42.241Z",
+  "date": "2019-07-31T19:08:43.746Z",
   "describe": "",
   "description": "The constant NaN derived mathematically by 0 / 0.",
   "file": "nan-x.js",
