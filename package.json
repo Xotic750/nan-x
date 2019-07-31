@@ -1,6 +1,6 @@
 {
   "name": "nan-x",
-  "version": "2.0.31",
+  "version": "2.0.32",
   "description": "The constant NaN derived mathematically by 0 / 0.",
   "homepage": "https://github.com/Xotic750/nan-x",
   "author": {
@@ -60,7 +60,7 @@
     "@babel/runtime": "^7.5.5",
     "@types/jest": "^24.0.16",
     "@types/node": "^12.6.8",
-    "@xotic750/eslint-config-recommended": "^1.0.4",
+    "@xotic750/eslint-config-recommended": "^1.0.5",
     "babel-core": "^7.0.0-0",
     "babel-eslint": "^10.0.2",
     "babel-loader": "^8.0.6",
