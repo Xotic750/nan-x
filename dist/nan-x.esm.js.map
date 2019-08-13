@@ -1,1 +1,1 @@
-{"version":3,"sources":["../src/nan-x.js"],"names":[],"mappings":"AAAA;;;;;AAKA,eAAe,IAAI,CAAnB","file":"nan-x.esm.js","sourcesContent":["/**\n * The constant NaN derived mathematically by 0 / 0.\n *\n * @type number\n */\nexport default 0 / 0;\n"]}
+{"version":3,"sources":["../src/nan-x.js"],"names":[],"mappings":"AAAA;;;;;AAKA,IAAM,WAAW,GAAG,IAAI,CAAxB;AAEA,eAAe,WAAf","file":"nan-x.esm.js","sourcesContent":["/**\n * The constant NaN derived mathematically by 0 / 0.\n *\n * @type number\n */\nconst constantNAN = 0 / 0;\n\nexport default constantNAN;\n"]}

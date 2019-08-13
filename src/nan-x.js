@@ -3,4 +3,6 @@
  *
  * @type number
  */
-export default 0 / 0;
+const constantNAN = 0 / 0;
+
+export default constantNAN;

@@ -3,6 +3,7 @@
  *
  * @type number
  */
-export default 0 / 0;
+var constantNAN = 0 / 0;
+export default constantNAN;
 
 //# sourceMappingURL=nan-x.esm.js.map
